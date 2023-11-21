@@ -9,6 +9,8 @@ import { RouterOutlet } from '@angular/router';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
   title = 'finalAsn';
+  test = 'testing the component'
 }
